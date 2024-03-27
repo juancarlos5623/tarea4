@@ -1,0 +1,40 @@
+{
+    "producto":[
+        {
+            "Id": 1,
+            "Descripcion": "Mouse",
+            "Precio": "30.00",
+            "URL": "https://centrale.cl/wp-content/uploads/Logitech-Mouse-Gamer-G203-Rgb-Lightsync-6-Botones-Programables-8.000-Dp_CCLH3kX.webp"
+        },
+        {
+            "Id": 2,
+            "Descripcion": "Mouse",
+            "Precio": "30.00",
+            "URL": "https://oechsle.vteximg.com.br/arquivos/ids/15737778-1000-1000/2420214_2.jpg?v=638279162931270000"
+        },
+        {
+            "Id": 3,
+            "Descripcion": "Pantalla",
+            "Precio": "200.00",
+            "URL": "https://cdn.thewirecutter.com/wp-content/media/2023/06/4kmonitors-2048px-9794.jpg?auto=webp&quality=75&width=1024"
+        },
+        {
+            "Id": 4,
+            "Descripcion": "Memoria RAM",
+            "Precio": "100.00",
+            "URL": "https://i.blogs.es/f67641/rm-01/650_1200.webp"
+        },
+        {
+            "Id": 5,
+            "Descripcion": "Teclado",
+            "Precio": "200.00",
+            "URL": "https://lawgamers.com/wp-content/uploads/2023/12/Teclado-Redragon-Kumara-RGB-White-RED-SWITCH-new.webp"
+        },
+        {
+            "Id": 6,
+            "Descripcion": "Laptop",
+            "Precio": "5000.00",
+            "URL": "https://i.blogs.es/f67641/rm-01/650_1200.webp"
+        }
+    ]
+}
